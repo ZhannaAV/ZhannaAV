@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 Фронтенд разработчик в веб-студии
-- 🌱 В настоящий момент изучаю Docker
-- 👯 Разрабатываю во фриланс-команде интернет-магазин полностью на стэке для JS
-- 😄 Получаю огромное удовольствие от кодинга и новых знаний
-- ⚡ Люблю танцы и сноуборд
+- 🔭 Frontend developer
+- 🌱 Learn RxJS
+- 👯 Work on Fintech
+- 😄 Positive and friendship
+- ⚡ Love dancing and skateboarding
 
  ### 🛠️Мой стек:
  **Front-end**

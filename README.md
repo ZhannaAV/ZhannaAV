@@ -1,4 +1,4 @@
-### Привет всем, меня зовут Жанна<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hello, my name is Zhanna<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <!--
 **ZhannaAV/ZhannaAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

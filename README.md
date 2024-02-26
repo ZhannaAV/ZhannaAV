@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Positive and friendship
 - ⚡ Love dancing and skateboarding
 
- ### 🛠️Мой стек:
+ ### 🛠️My stack:
  **Front-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>

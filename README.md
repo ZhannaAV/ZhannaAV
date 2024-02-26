@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 Frontend developer
-- 🌱 Learn RxJS
+- 🌱 Learning to drive a motorcycle
 - 👯 Work on Fintech
 - 😄 Positive and friendship
 - ⚡ Love dancing and skateboarding
@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
  ### 🛠️Мой стек:
  **Front-end**
 
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/reactjs.png"></code>
 <code><img height="30" src="https://github.com/ZhannaAV/ZhannaAV/blob/main/images/redux_original_logo.svg"></code>
 
 

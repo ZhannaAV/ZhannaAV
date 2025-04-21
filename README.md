@@ -1,9 +1,13 @@
-# Привет, меня зовут Жанна!<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h1 align="center">
+  Привет, меня зовут <span style="background: linear-gradient(to right, #8e2de2, #4a00e0); -webkit-background-clip: text; color: transparent;">Жанна</span>! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</h1>
 
-<!--
-**ZhannaAV/ZhannaAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=450&lines=Senior+Frontend+Developer;Architect+of+Microfrontends;Canvas+Charts+Animations;React%2C+Vue%2C+TypeScript+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started: -->
+
+## 👩‍💻 О себе
 
 Senior Frontend-разработчик с опытом в разработке, архитектуре и управлении командами. Работаю с современным стеком и создаю масштабируемые решения.
 
@@ -31,8 +35,6 @@ Senior Frontend-разработчик с опытом в разработке, 
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack)
 
----
-
 ### 🔧 **Backend & Tools**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
@@ -45,17 +47,14 @@ Senior Frontend-разработчик с опытом в разработке, 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
----
-
 ### 📋 **Workflow & Agile**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira)
 ![Agile](https://img.shields.io/badge/-Agile-FCA121?style=flat&logo=agile)
 
----
+## 🤝 Связаться со мной
+- 📬 Telegram: [@whiteredfox](https://t.me/whiteredfox)  
+- 📧 Email: whiteredfoxx@gmail.com  
 
-### 🚀 Открыта к сотрудничеству
-
-Если у вас интересный проект, команда или идея — всегда рада пообщаться!  
-📬 Telegram: [@whiteredfox](https://t.me/whiteredfox) | 📧 Email: whiteredfoxx@gmail.com
+<sub>Спасибо, что заглянули! Увидимся в коде :)</sub>
  
 

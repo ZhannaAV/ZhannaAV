@@ -16,7 +16,7 @@ Senior Frontend-разработчик с опытом в разработке, 
 - 📊 Сложные интерфейсы: графики, Canvas, d3.js
 - 🤖 Изучаю AI/ML и Python
   
-## 🧠 TechStack
+## 🧠 Технический стэк
 
 ### 🧩 **Frontend**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

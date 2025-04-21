@@ -9,8 +9,8 @@ Senior Frontend-разработчик с опытом в разработке, 
 
 - ⚛️ React, Vue.js, Next.js, TypeScript
 - ⚙️ Микрофронтенды, SPA, SSR, CI/CD
-- 🚀 Vite, Webpack, Jenkins
 - 📊 Сложные интерфейсы: графики, Canvas, d3.js
+- 🤖 Изучаю AI/ML и Python
   
 ## 🧠 TechStack
 
@@ -52,5 +52,10 @@ Senior Frontend-разработчик с опытом в разработке, 
 ![Agile](https://img.shields.io/badge/-Agile-FCA121?style=flat&logo=agile)
 
 ---
+
+### 🚀 Открыта к сотрудничеству
+
+Если у вас интересный проект, команда или идея — всегда рада пообщаться!  
+📬 Telegram: [@whiteredfox](https://t.me/whiteredfox) | 📧 Email: whiteredfoxx@gmail.com
  
 
